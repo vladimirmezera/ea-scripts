@@ -1,6 +1,6 @@
 EA examples scripts 
 -------
-Script for Enterprise Architect. These examples are in javascript. 
+Scripts for Enterprise Architect. These examples are in javascript. Each script has own documentation in directory.
 
 
 License
